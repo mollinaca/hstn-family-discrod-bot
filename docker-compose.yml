@@ -1,6 +1,5 @@
-version: '3'
 services:
-  palserver:
+  hstn-bot:
     build:
       context: .
       dockerfile: Dockerfile
